@@ -1,0 +1,7 @@
+title = "Ruster Build"
+
+[repository]
+host="https://github.com/wojtekw92/ruster.git"
+
+
+[pipeline]
